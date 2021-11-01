@@ -3,6 +3,7 @@ using Alura.CoisasAFazer.Core.Models;
 using Alura.CoisasAFazer.Infrastructure;
 using Alura.CoisasAFazer.Services.Handlers;
 using Microsoft.EntityFrameworkCore;
+using Moq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -60,6 +61,35 @@ namespace Alura.CoisasAFazer.Testes
             //assert
             var tarefasEmAtraso = repo.ObtemTarefas(t => t.Status == StatusTarefa.EmAtraso);
             Assert.Equal(5, tarefasEmAtraso.Count());
+        }
+
+        //Dado 3 tarefas e chamada do método ObtemTarefas
+        //Quando chamado metodo Execute
+        //Atualize tarefas deve ser chamado 3 vezes (quantidade de tarefas adicionadas)
+        [Fact]
+        public void DadoExecuteInvocadoChamarAtualizarTarefaNTarefas()
+        {
+            //arrange
+            var tarefas = new List<Tarefa>
+            {
+                new Tarefa(1, "Tirar lixo", new Categoria("Casa"), new DateTime(2018,12,31), null, StatusTarefa.Criada),
+                new Tarefa(4, "Fazer o almoço",new Categoria("Casa"), new DateTime(2017,12,1), null, StatusTarefa.Criada),
+                new Tarefa(9, "Ir à academia", new Categoria("Saúde"), new DateTime(2018,12,31), null, StatusTarefa.Criada)
+            };
+            var mock = new Mock<IRepositorioTarefas>();
+            mock.Setup(obj => obj.ObtemTarefas(It.IsAny<Func<Tarefa, bool>>())).Returns(tarefas);
+            var repo = mock.Object;
+
+            var commando = new GerenciaPrazoDasTarefas(new DateTime(2019, 1, 1));
+            var handler = new GerenciaPrazoDasTarefasHandler(repo);
+
+            //Act
+            handler.Execute(commando);
+
+            //Assert 
+            //Par qualquer argumento passado ao metodo AtualizarTarefas verificar se foi chamado 3 vezes
+            mock.Verify(obj => obj.AtualizarTarefas(It.IsAny<Tarefa[]>()), Times.Once()); 
+            //O Verify faz algo parecido com o Equal, aqui ele verifica se o metodo Atualizar tarefas é chamado 1 vez
         }
     }
 }

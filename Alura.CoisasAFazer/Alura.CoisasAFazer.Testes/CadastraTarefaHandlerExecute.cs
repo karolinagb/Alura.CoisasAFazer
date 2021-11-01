@@ -56,10 +56,12 @@ namespace Alura.CoisasAFazer.Testes
             //Ao invés de usar o bd em memória, eu posso usar o mock
             var mock = new Mock<IRepositorioTarefas>();
 
+            //Simula um repositorio que lança uma excecao no metodo incluirtarefas
             //Aqui faz as configurações como lançamento de exceção
             mock.Setup(obj => obj.IncluirTarefas(It.IsAny<Tarefa[]>()))//It.IsAny == qualquer array de tarefa recebido ele vai lançar exceção
                 .Throws(new Exception("Houve um erro na inclusão de tarefas"));
 
+            //Instancia do tipo simulado
             var repo = mock.Object; //Dá um objeto pra gente daquilo tipo passado na instancia do mock
 
             //tratador do comando acima
