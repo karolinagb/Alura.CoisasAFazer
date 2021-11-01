@@ -435,3 +435,5 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\ref\Alura.CoisasAFazer.Testes.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.pdb
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.genruntimeconfig.cache
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Castle.Core.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Moq.dll
