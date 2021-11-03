@@ -159,6 +159,9 @@
               "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj": {
                 "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj"
               },
+              "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj": {
+                "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj"
+              },
               "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Core.csproj": {
                 "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Core.csproj"
               }
@@ -175,6 +178,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[5.0.11, )"
@@ -246,7 +253,17 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj": {
+                "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj"
+              },
+              "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj": {
+                "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj"
+              },
+              "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Core.csproj": {
+                "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -309,11 +326,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj": {
-                "projectPath": "C:\\projetos\\Alura.CoisasAFazer\\Alura.CoisasAFazer\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

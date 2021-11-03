@@ -99,7 +99,6 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -157,7 +156,6 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Data.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
@@ -292,13 +290,18 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\refs\WindowsBase.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.WebApp.Views.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.WebApp.Views.pdb
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\MediatR.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -325,6 +328,12 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.Core.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.Services.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.Services.pdb
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\bin\Debug\net5.0\Alura.CoisasAFazer.Core.pdb
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\obj\Debug\net5.0\Alura.CoisasAFazer.WebApp.csproj.AssemblyReference.cache
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\obj\Debug\net5.0\Alura.CoisasAFazer.WebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.WebApp\obj\Debug\net5.0\Alura.CoisasAFazer.WebApp.AssemblyInfoInputs.cache

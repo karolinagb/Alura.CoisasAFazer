@@ -1,8 +1,3 @@
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.csproj.AssemblyReference.cache
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.GeneratedMSBuildEditorConfig.editorconfig
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.AssemblyInfoInputs.cache
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.AssemblyInfo.cs
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.csproj.CoreCompileInputs.cache
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\CoverletSourceRootsMapping
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\testhost.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.WebApp.Views.dll
@@ -305,6 +300,7 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\refs\System.Xml.XPath.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Castle.Core.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\MediatR.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
@@ -324,6 +320,7 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Moq.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\NuGet.Frameworks.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
@@ -428,12 +425,15 @@ C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.WebApp.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.Infrastructure.pdb
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.Services.pdb
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.Core.pdb
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.WebApp.pdb
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Alura.CoisasAFazer.Core.pdb
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.csproj.AssemblyReference.cache
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.AssemblyInfoInputs.cache
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.AssemblyInfo.cs
+C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.csproj.CoreCompileInputs.cache
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.csproj.CopyComplete
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\ref\Alura.CoisasAFazer.Testes.dll
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.pdb
 C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\obj\Debug\net5.0\Alura.CoisasAFazer.Testes.genruntimeconfig.cache
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Castle.Core.dll
-C:\projetos\Alura.CoisasAFazer\Alura.CoisasAFazer\Alura.CoisasAFazer.Testes\bin\Debug\net5.0\Moq.dll
