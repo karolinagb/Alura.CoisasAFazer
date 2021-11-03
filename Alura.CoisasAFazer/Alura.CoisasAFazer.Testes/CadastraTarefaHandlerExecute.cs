@@ -148,8 +148,8 @@ namespace Alura.CoisasAFazer.Testes
             //Usar o mock para passar uma instancia de ILogger
             var mockLogger = new Mock<ILogger<CadastraTarefaHandler>>();
 
-            LogLevel levelCapturado = LogLevel.Error;
-            string mensagemCapturada = string.Empty;
+            LogLevel levelCapturado = LogLevel.Debug;
+            string mensagemCapturada = tituloTarefaEsperado;
 
             CapturaMensagemLog captura = (level, eventId, state, exception, func) =>
             {

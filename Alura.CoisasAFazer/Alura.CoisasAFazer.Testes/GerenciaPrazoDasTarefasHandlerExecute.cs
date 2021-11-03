@@ -41,7 +41,7 @@ namespace Alura.CoisasAFazer.Testes
 
             //Definindo configurações do provedor
             var options = new DbContextOptionsBuilder<DbTarefasContext>()
-                .UseInMemoryDatabase("DbTarefas")
+                .UseInMemoryDatabase("DbTarefasEmAtraso")
                 .Options;
 
             //Instanciando classe de contexto (representa o EF) passando o provedor
